@@ -1,2 +1,0 @@
-# socially
-Created with CodeSandbox
